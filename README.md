@@ -1,6 +1,6 @@
 ### Hi 👋
 
-#### I'm Math, a creative developer !
+#### I'm Math. A creative developer, at Gobelins School Annecy !
 
 ### ✍️ Languages
 
