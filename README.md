@@ -6,8 +6,10 @@ I'm a creative developer, at Gobelins School Annecy !
 
 ## 🛠 I Work With
 
-<img src="https://skillicons.dev/icons?i=python,unity,nuxtjs,vuejs,nodejs,astro,php,empty,supabase,mysql,pinia"/>
-<img src="https://skillicons.dev/icons?i=github,git,docker,vscode,empty,figma,blender,photoshop"/>
+<img src="https://skillicons.dev/icons?i=python,unity,nuxtjs,vuejs,nodejs,typescript,astro,php"/>
+<img src="https://skillicons.dev/icons?i=supabase,mysql,pinia"/>
+<img src="https://skillicons.dev/icons?i=github,git,vscode,docker"/>
+<img src="https://skillicons.dev/icons?i=raspberrypi,figma,blender,photoshop"/>
 
 
 [gitHub-action]: https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github
@@ -32,6 +34,6 @@ I'm a creative developer, at Gobelins School Annecy !
 <br>
 
 
-## View my top projects ! ⬇️
+## ⬇️ View my top projects ! ⬇️
 
 
